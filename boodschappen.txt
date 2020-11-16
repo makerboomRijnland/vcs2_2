@@ -10,4 +10,5 @@ Ontbijt:
 - Eieren
 - Brood
 - Boter
+- Croissants
 - Sinaasappelsap
