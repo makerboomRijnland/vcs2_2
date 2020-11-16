@@ -3,6 +3,7 @@ Pizza:
 - Tomatensaus
 - Mozarella
 - Parmazaanse kaas
+- Normale kaas
 - Rucola
 
 Ontbijt: 
