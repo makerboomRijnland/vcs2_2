@@ -1,6 +1,6 @@
 Pizza:
 - Pizzadeeg
-- Witte saus / Tomaten Frito
+- Tomaten Frito
 - Mozarella
 - Parmazaanse kaas
 - Normale kaas
