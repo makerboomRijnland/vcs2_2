@@ -2,7 +2,7 @@ Pizza:
 - Pizzadeeg
 - Witte saus / Tomaten Frito
 - Mozarella
-- Parmazaanz kaaz
+- Parmazaanse kaas
 - Normale kaas
 - Rucola
 
