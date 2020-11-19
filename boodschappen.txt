@@ -9,7 +9,7 @@ Pizza:
 Ontbijt: 
 - Eieren
 - Brood
-- Cornflakes
+- Cornflakes Quaker
 - Boter
 - Croissants
 - Sinaasappelsap
